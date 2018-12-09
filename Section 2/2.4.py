@@ -4,7 +4,7 @@ if-statement
 
 o
 
-istrutzione condizionale
+istruzione condizionale
 
 Esempio 1:
 
